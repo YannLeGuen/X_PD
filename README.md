@@ -5,7 +5,8 @@ Scripts release: WIP
 
 Discovery summary stats are stored with Git Large File Storage. Please refer to each of dataset in the discovery for appropriate License usage.
 
-Data Availability
+Data Availability:
+
 IPDGC NeuroX data available at: https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000918.v1.p1
 
 NINDS data available at: https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs001172.v1.p2
